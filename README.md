@@ -187,6 +187,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
   * NAVER Cloud, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea Naval Academy, AITRICS
   * [CVPR'25]
+* **[2025.10.09]** [**VisualDAN: Exposing Vulnerabilities in VLMs with Visual-Driven DAN Commands**](https://arxiv.org/abs/2510.09699)
+  * Aofan Liu, Lulu Tang
+  * Beijing Academy of Artificial Intelligence
+  * [arXiv'25]
 
 
 <h3 id="defenses"> <img src="assets/defense.png" alt="Icon" width="18" style="vertical-align:middle"/> Defenses </h3>
@@ -370,6 +374,14 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
 * **[2025.06.11]** **[HoliSafe: Holistic Safety Benchmarking and Modeling with Safety Meta Token for Vision-Language Model](https://www.arxiv.org/abs/2506.04704)**
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
+  * [arXiv'25]
+* **[2025.12.02]** **[OmniGuard: Unified Omni-Modal Guardrails with Deliberate Reasoning](https://arxiv.org/abs/2512.02306)**
+  * Boyu Zhu, Xiaofei Wen, Wenjie Jacky Mo, Tinghui Zhu, Yanan Xie, Peng Qi, Muhao Chen
+  * Fudan University, UC Davis, Uniphore
+  * [arXiv'25]
+* **[2025.12.12]** **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069)** [![GitHub stars](https://img.shields.io/github/stars/sarendis56/Jailbreak_Detection_RCS)](https://github.com/sarendis56/Jailbreak_Detection_RCS)
+  * Peichun Hua, Hao Li, Shanghao Shi, Zhiyuan Yu, Ning Zhang
+  * Washington University in St. Louis, Texas A&M University
   * [arXiv'25]
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
