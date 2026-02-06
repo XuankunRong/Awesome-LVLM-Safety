@@ -383,6 +383,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Peichun Hua, Hao Li, Shanghao Shi, Zhiyuan Yu, Ning Zhang
   * Washington University in St. Louis, Texas A&M University
   * [arXiv'25]
+* **[2026.02.03]** **[GuardReasoner-Omni: A Reasoning-based Multi-modal Guardrail for Text, Image, and Video](https://arxiv.org/abs/2602.03328)**
+  * Zhenhao Zhu, Yue Liu, Yanpei Guo, Wenjie Qu, Cancan Chen, Yufei He, Yibo Li, Yulin Chen, Tianyi Wu, Huiying Xu, Xinzhong Zhu, Jiaheng Zhang
+  * Tsinghua University, National University of Singapore, Sun Yat-sen University, Zhejiang Normal University
+  * [arXiv'26]
 <h3 id="evaluations"> <img src="assets/evaluation.png" alt="Icon" width="27" style="vertical-align:middle"/> Evaluations </h3>
 
 * **[2023.11.27]** **[How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)** [![GitHub stars](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark?style=social)](https://github.com/UCSC-VLAA/vllm-safety-benchmark)
