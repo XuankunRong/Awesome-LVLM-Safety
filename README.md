@@ -465,6 +465,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Youngwan Lee, Kangsan Kim, Kwanyong Park, Ilcahe Jung, Soojin Jang, Seanie Lee, Yong-Ju Lee, Sung Ju Hwang
   * ETRI, KAIST AI, University of Seoul, DeepAuto
   * [arXiv'25]
+* **[2025.11.18]** **[MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs](https://arxiv.org/abs/2511.14159)** [![GitHub stars](https://img.shields.io/github/stars/chenyil6/MVI-Bench?style=social)](https://github.com/chenyil6/MVI-Bench)
+  * Huiyi Chen, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng
+  * UIUC, UIC, Southeast University
+  * [ICML'26]
 
 <h2 id="januspro"> 🤖 Evaluation on Janus-Pro </h2>
 
