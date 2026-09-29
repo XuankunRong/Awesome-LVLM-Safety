@@ -187,6 +187,10 @@ With the rapid advancement of Large Vision-Language Models (LVLMs), also referre
   * Joonhyun Jeong, Seyun Bae, Yeonsung Jung, Jaeryong Hwang, Eunho Yang
   * NAVER Cloud, Korea Advanced Institute of Science and Technology (KAIST), Republic of Korea Naval Academy, AITRICS
   * [CVPR'25]
+* **[2025.09.15]** **[Phi: Preference Hijacking in Multi-modal Large Language Models at Inference Time](https://arxiv.org/abs/2509.12521)** [![GitHub stars](https://img.shields.io/github/stars/Yifan-Lan/Phi?style=social)](https://github.com/Yifan-Lan/Phi)
+  * Yifan Lan, Yuanpu Cao, Weitong Zhang, Lu Lin, Jinghui Chen
+  * The Pennsylvania State University, The University of North Carolina at Chapel Hill
+  * [EMNLP'25 Oral]
 * **[2025.10.09]** [**VisualDAN: Exposing Vulnerabilities in VLMs with Visual-Driven DAN Commands**](https://arxiv.org/abs/2510.09699)
   * Aofan Liu, Lulu Tang
   * Beijing Academy of Artificial Intelligence
